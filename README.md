@@ -60,13 +60,3 @@ El análisis de importancia (feature importances + SHAP) reveló que el modelo s
 
 `Python` · `pandas` · `NumPy` · `scikit-learn` · `XGBoost` · `imbalanced-learn` · `SHAP` · `LIME` · `matplotlib` · `seaborn`
 
-## Cómo reproducirlo
-
-```bash
-git clone https://github.com/<tu-usuario>/prediccion-infartos-ml.git
-cd prediccion-infartos-ml
-pip install -r requirements.txt
-jupyter notebook Actividad_final.ipynb
-```
-
-El dataset debe colocarse en la ruta indicada al inicio del notebook (no se incluye en el repositorio por tamaño/licencia).
